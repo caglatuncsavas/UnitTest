@@ -15,7 +15,7 @@ Unit tests are organized under the `Users.API.Tests.Unit` project and cover the 
 
 Each test ensures that the API responds correctly to various scenarios, and proper logging is performed. The test results show that all test cases have passed successfully.
 
-![Unit Tests Results](./https://github.com/caglatuncsavas/UnitTest/assets/95507765/d28a9aba-d443-40fa-b811-9b000d149dbf)
+![Unit Tests Results](https://github.com/caglatuncsavas/UnitTest/assets/95507765/d28a9aba-d443-40fa-b811-9b000d149dbf)
 
 ## Conclusion
 
