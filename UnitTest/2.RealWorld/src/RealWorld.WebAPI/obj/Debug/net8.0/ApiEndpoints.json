@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "RealWorld.WebAPI.Controllers.UsersController",
+    "Method": "Create",
+    "RelativePath": "api/Users/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RealWorld.WebAPI.Dtos.CreateUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealWorld.WebAPI.Controllers.UsersController",
+    "Method": "GetAll",
+    "RelativePath": "api/Users/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

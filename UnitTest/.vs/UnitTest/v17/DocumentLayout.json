@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.NET\\UnitTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{232B42F6-CB5A-488E-90ED-233AEF088805}|2.RealWorld\\src\\RealWorld.WebAPI\\RealWorld.WebAPI.csproj|c:\\.net\\unittest\\2.realworld\\src\\realworld.webapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B42F6-CB5A-488E-90ED-233AEF088805}|2.RealWorld\\src\\RealWorld.WebAPI\\RealWorld.WebAPI.csproj|solutionrelative:2.realworld\\src\\realworld.webapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45AEBAC-3B91-4CB0-8B82-01866BBCE789}|2.RealWorld\\tests\\Users.API.Tests.Unit\\Users.API.Tests.Unit.csproj|c:\\.net\\unittest\\2.realworld\\tests\\users.api.tests.unit\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45AEBAC-3B91-4CB0-8B82-01866BBCE789}|2.RealWorld\\tests\\Users.API.Tests.Unit\\Users.API.Tests.Unit.csproj|solutionrelative:2.realworld\\tests\\users.api.tests.unit\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B42F6-CB5A-488E-90ED-233AEF088805}|2.RealWorld\\src\\RealWorld.WebAPI\\RealWorld.WebAPI.csproj|c:\\.net\\unittest\\2.realworld\\src\\realworld.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B42F6-CB5A-488E-90ED-233AEF088805}|2.RealWorld\\src\\RealWorld.WebAPI\\RealWorld.WebAPI.csproj|solutionrelative:2.realworld\\src\\realworld.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B42F6-CB5A-488E-90ED-233AEF088805}|2.RealWorld\\src\\RealWorld.WebAPI\\RealWorld.WebAPI.csproj|c:\\.net\\unittest\\2.realworld\\src\\realworld.webapi\\validators\\updateuserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B42F6-CB5A-488E-90ED-233AEF088805}|2.RealWorld\\src\\RealWorld.WebAPI\\RealWorld.WebAPI.csproj|solutionrelative:2.realworld\\src\\realworld.webapi\\validators\\updateuserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B42F6-CB5A-488E-90ED-233AEF088805}|2.RealWorld\\src\\RealWorld.WebAPI\\RealWorld.WebAPI.csproj|c:\\.net\\unittest\\2.realworld\\src\\realworld.webapi\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B42F6-CB5A-488E-90ED-233AEF088805}|2.RealWorld\\src\\RealWorld.WebAPI\\RealWorld.WebAPI.csproj|solutionrelative:2.realworld\\src\\realworld.webapi\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\.NET\\UnitTest\\2.RealWorld\\tests\\Users.API.Tests.Unit\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "2.RealWorld\\tests\\Users.API.Tests.Unit\\UserServiceTests.cs",
+              "ToolTip": "C:\\.NET\\UnitTest\\2.RealWorld\\tests\\Users.API.Tests.Unit\\UserServiceTests.cs",
+              "RelativeToolTip": "2.RealWorld\\tests\\Users.API.Tests.Unit\\UserServiceTests.cs",
+              "ViewState": "AQIAAGABAAAAAAAAAAAowJsBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:51:40.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\.NET\\UnitTest\\2.RealWorld\\src\\RealWorld.WebAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "2.RealWorld\\src\\RealWorld.WebAPI\\Services\\UserService.cs",
+              "ToolTip": "C:\\.NET\\UnitTest\\2.RealWorld\\src\\RealWorld.WebAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "2.RealWorld\\src\\RealWorld.WebAPI\\Services\\UserService.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAYwJMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:37:05.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\.NET\\UnitTest\\2.RealWorld\\src\\RealWorld.WebAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "2.RealWorld\\src\\RealWorld.WebAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\.NET\\UnitTest\\2.RealWorld\\src\\RealWorld.WebAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "2.RealWorld\\src\\RealWorld.WebAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:37:31.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateUserDtoValidator.cs",
+              "DocumentMoniker": "C:\\.NET\\UnitTest\\2.RealWorld\\src\\RealWorld.WebAPI\\Validators\\UpdateUserDtoValidator.cs",
+              "RelativeDocumentMoniker": "2.RealWorld\\src\\RealWorld.WebAPI\\Validators\\UpdateUserDtoValidator.cs",
+              "ToolTip": "C:\\.NET\\UnitTest\\2.RealWorld\\src\\RealWorld.WebAPI\\Validators\\UpdateUserDtoValidator.cs",
+              "RelativeToolTip": "2.RealWorld\\src\\RealWorld.WebAPI\\Validators\\UpdateUserDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:35:45.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\.NET\\UnitTest\\2.RealWorld\\src\\RealWorld.WebAPI\\Dtos\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "2.RealWorld\\src\\RealWorld.WebAPI\\Dtos\\UpdateUserDto.cs",
+              "ToolTip": "C:\\.NET\\UnitTest\\2.RealWorld\\src\\RealWorld.WebAPI\\Dtos\\UpdateUserDto.cs",
+              "RelativeToolTip": "2.RealWorld\\src\\RealWorld.WebAPI\\Dtos\\UpdateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:35:34.769Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 140,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 140,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
